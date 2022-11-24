@@ -8,4 +8,4 @@
 * posso adicionar o js (javascript)em qualquer lugar na tag '< head >" ou < body >
 * para adicionar o js vamos especificar uma tag chamada  < script > que tem abertura e fechamento. Para agente escrever O cogído dentro da teg.
 * podemos tambem linkar o java script igual ao css
-* para pode linkar o js declaramos uma tag script com abertura e fechamento no final do body < script>  .app.jt  < /script>
+* para pode linkar o js declaramos uma tag script com abertura e fechamento no final do body < script src=".app.jt"> < /script>
