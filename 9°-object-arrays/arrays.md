@@ -22,8 +22,9 @@
 o indexOf() ESSE MÉTODO retorna o primeiro índice em que o elemento pode ser encontrado no array
 caso não esteja presente o argumento ele retorna -1
 ### concat()
-essa função e ultilizada para concatenar arrays e strings 
 ![foto](concat.png)
+essa função e ultilizada para concatenar arrays e strings 
+
 não altera o valor da função 
 ### push()
 esse método altera o valor original 
