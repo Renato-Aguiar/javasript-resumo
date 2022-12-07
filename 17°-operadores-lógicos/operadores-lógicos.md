@@ -10,5 +10,13 @@
 ### se as dus condições forem false o codigo if não e executado
 ![foto](;/../operador%202.png)
 # && Operador Lógico E
-
-
+### O JavaScript usa dois "e comerciais" && para representar o operador lógico E (Logical AND operator).
+### tabela de resutado do operdor && quando apicado a dois valores booleanos.
+![foto](tabela.png)
+## exemplo prático
+## 1°
+![foto](exemplo%20.png)
+## 2°
+![foto](2.png)
+## 3°
+![foto](3.png)
