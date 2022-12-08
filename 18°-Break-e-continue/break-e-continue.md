@@ -1,6 +1,6 @@
 # break e continue
 # continue
-### A palavra chave continue termina a atual, e continua a execução deste laço com a próxima iteração.
+### A palavra-chave continue termina a atual, e contínua a execução deste laço com a próxima iteração.
 ![foto](continue.png)
 
 # break
