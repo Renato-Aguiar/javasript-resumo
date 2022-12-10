@@ -2,7 +2,7 @@
 ## ! || &&
 # ! operador lógico NÃO(Logical NOT)
 ### JavaScript utiliza o ponto de exclamação ! para representar o operador lógico NÃO.
-### Quando você aplica o operador de negação ! a um valor booleano, o ! retorna true se o valor for false e retorna false se o valor for true, ou seja, vai retornar o valor contrário.
+### Quando você aplica o operador de negação ! a um valor booleano, o ! retorna true se o valor for false. É retorna false se o valor for true, ou seja, vai retornar o valor contrário.
 ![FOTO](!.png)
 # || OPERADOR LÓGICO OU
 ### O JS usa o pipe duplo || para representar o operador lógico OU (logical OR operator). Você pode aplicar o operador || para dois valores de qualquer tipo:

@@ -12,13 +12,14 @@
 ### length
 ![foto](lllllll.png)
 ### da mesma forma que a length funcionar com strings ela funcionar com arrays 
-### método join()
+## método join()
 ### esse método vai retorna uma nova string com todos os items do arrays concatenado e separados por vírgula
 ![foto](join.png)
 ### join támbem recebe argumentos ('-')
 ![foto](fgedf.png)
 ### indexof
 ![gg](indexof.png)
+
 o indexOf() ESSE MÉTODO retorna o primeiro índice em que o elemento pode ser encontrado no array
 caso não esteja presente o argumento ele retorna -1
 ### concat()

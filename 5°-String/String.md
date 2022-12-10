@@ -5,8 +5,8 @@
 ## concatenação de strings
 * concatenação e um nome técnico onde uma coisa junta a outra
 * let nome = 'Renato';
-* let sobreNome = 'Aguiar' * let nomeInteiro = nome + sobreNome
-;
+* let sobreNome = 'Aguiar' 
+* let nomeInteiro = nome + sobreNome;
 * console,log(nomeInteiro)
 * resultado RenatoAguiar
 ## acessado caracteres

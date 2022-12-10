@@ -3,12 +3,12 @@
 ### Booleano é um tipo de dado lógico que pode ter apenas um de dois valores possiveis: verdadeiro = true , ou falso = false.
 #### Quando utilizar o boolean. quando presizar verificar uma condição no codígo
 # métodos podem retornar booleans
-includes()
+## includes()
 ### O método includes() determina se um array/string contém um determinado elemento, retornando true ou false 
 ![foto](./Captura%20de%20tela%202022-11-30%20160906.png)
 ### O método includes() retornor true porque achou o valor @ na string email
 ![foto](./false.png)
-### O método includes() retonor false porque não achou o valor # na string email
+# O método includes() retonor false porque não achou o valor # na string email
 # operadores de comparação
 * == (igualdade)
 * !=  (desigualdade)

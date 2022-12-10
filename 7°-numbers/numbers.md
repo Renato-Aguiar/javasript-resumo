@@ -27,17 +27,17 @@
 ## Ordem de operadores 
 ### multiplicação e divisão depois adição e subtração(a soma e sempre realizada da esquerda para direita)
 ## operadores atribuição
-## Atribuição 
+## Atribuição =
 ![foto](atribui%C3%A7%C3%A3o.png)
-## Atribuição de soma
+## Atribuição de soma +=
 ![foto](atribui%C3%A7%C3%A3o%20de%20soma.png)
-## Atribuição de subtração
+## Atribuição de subtração -=
 ![foto](./atribui%C3%A7%C3%A3o%20de%20subtra%C3%A7%C3%A3o.png)
-## Atribuição de multiplicação
+## Atribuição de multiplicação *=
 ![foto](./atribui%C3%A7%C3%A3o%20de%20multiplica%C3%A7%C3%A3o.png)
-## Atribuição de divisão
+## Atribuição de divisão /=
 ![foto](./atribui%C3%A7%C3%A3o%20de%20divis%C3%A3o.png)
-## Atribuição de resto
+## Atribuição de resto %=
 ![foto](./atribui%C3%A7%C3%A3o%20de%20resto.png)
 ## Nan - not a nameber
 ### quando nos tentamos fazer uma operação que o javascript não entende 
