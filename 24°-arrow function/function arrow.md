@@ -15,6 +15,6 @@
 ## exemplo 2 
 ![foto](exemplo%202.png)
 ## paramentros
-### note que o parênteses. isso porque ele e um parâmetro único na função. se a função possuisse mais de um parâmetro, serìamos obrigados a colocar os paênteses
+### note que o parênteses. isso porque ele e um parâmetro único na função. se a função possuisse mais de um parâmetro, serìamos obrigados a colocar os parênteses
 ## exemplo pratico
 ![foto](exeplo%20pratico.png)

@@ -8,7 +8,7 @@
 ![foto](./dqwddwd.png)
 ## como sobrescrever um array
 ![fotos](subs.png)
-## propriedade3s e métodos de um array
+## propriedades e métodos de um array
 ### length
 ![foto](lllllll.png)
 ### da mesma forma que a length funcionar com strings ela funcionar com arrays 
