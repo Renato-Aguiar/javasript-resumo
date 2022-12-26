@@ -4,6 +4,6 @@
 ![foto](exemplo%20this%20.png)
 ## escrevo um novo método puble(), usando this 
 ![foto](exemplo%20this%202.png)
-## dentro da função puble() o this faz referencia ao objeto user.
+## dentro da função puble() o this faz referência ao objeto user.
 # “obs” A propósito, quando uma função é propriedade de um objeto, isso é chamada de método.
 # quando for usar o this em um método, não podemos usar arrow function, o valor do this não vai mudar em relação ao ponto de invocação 
